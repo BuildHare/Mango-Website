@@ -4,8 +4,7 @@
     font-size: 20px;
     border: 20px, violet;
     text-align: center;
-    width: 800px;
-    margin-left: 500px;
+
 }
 .button {
     background-color: rgb(221, 162, 52);
@@ -21,4 +20,9 @@
     width:300px;
     height: 400px;
     display:inline-flex
+}
+ .container {
+    max-width: 500px;
+    margin:auto;
+    align-content: center;
 }
